@@ -20,8 +20,8 @@ class Talk:
   host = "gd2.line.naver.jp";
   port = 443;
 
-  UA = "Mozilla/5.0"
-  LA = "CHROMEOS\t1.4.17\tChrome_OS\t1"
+  UA = "Line/7.14.0 iPAD5,1 10.2.0"
+  LA = "IOSPAD/t7.14.0/tiPhone OS/t10.12.0"
 
   authToken = None
   cert = None
