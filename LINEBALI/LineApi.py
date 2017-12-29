@@ -53,7 +53,7 @@ class LINE:
     self._headers = {
               'X-Line-Application': 'IOSPAD\t7.14.0\tiPhone OS\t10.12.0', 
               'X-Line-Access': self.authToken, 
-              'User-Agent': 'Mozilla/5.0'
+              'User-Agent': 'Line/7.14.0 iPAD5,1 10.2.0'
     }
 
 
