@@ -19,7 +19,7 @@ class Poll:
   port = 443;
 
   UA = "Line/7.14.0 iPAD5,1 10.2.0"
-  LA = "IOSPAD/t7.14.0/tiPhone OS/t.10.12.o"
+  LA = "IOSPAD\t7.14.0\tiPhone OS\t.10.12.0"
 
   rev = 0
 
